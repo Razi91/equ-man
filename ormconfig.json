@@ -1,0 +1,6 @@
+{
+    "type": "postgres",
+    "username": "geo",
+    "password": "geo",
+    "database": "equman"
+}
